@@ -1,0 +1,286 @@
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+SYN
+Sequence Number: 951057939
+Window Size :  8760
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+SYNACK
+Acknowledgement Number: 951057940
+Sequence Number: 290218379
+Window Size :  5840
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290218380
+Sequence Number: 951057940
+Window Size :  9660
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+Other
+Acknowledgement Number: 290218380
+Sequence Number: 951057940
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290218380
+Window Size :  6432
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290218380
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290219760
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290219760
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290221140
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290221140
+Window Size :  6432
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+Other
+Acknowledgement Number: 951058419
+Sequence Number: 290222520
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290223900
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290223900
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290225280
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290225280
+Window Size :  6432
+-----TCP----
+Source Port:  3371
+Destination Port:  80
+Other
+Acknowledgement Number: 778785668
+Sequence Number: 918691368
+Window Size :  8760
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290226660
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290226660
+Window Size :  6432
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+Other
+Acknowledgement Number: 951058419
+Sequence Number: 290228040
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290229420
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290229420
+Window Size :  6432
+-----TCP----
+Source Port:  80
+Destination Port:  3371
+ACK
+Acknowledgement Number: 918692089
+Sequence Number: 778785668
+Window Size :  31460
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290230800
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3371
+Other
+Acknowledgement Number: 918692089
+Sequence Number: 778785668
+Window Size :  31460
+-----TCP----
+Source Port:  80
+Destination Port:  3371
+Other
+Acknowledgement Number: 918692089
+Sequence Number: 778787098
+Window Size :  31460
+-----TCP----
+Source Port:  3371
+Destination Port:  80
+ACK
+Acknowledgement Number: 778787258
+Sequence Number: 918692089
+Window Size :  8760
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+Other
+Acknowledgement Number: 951058419
+Sequence Number: 290230800
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290232180
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290232180
+Window Size :  6432
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290233560
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290234940
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058419
+Sequence Number: 290234940
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290236320
+Sequence Number: 951058419
+Window Size :  9660
+-----TCP----
+Source Port:  80
+Destination Port:  3371
+Other
+Acknowledgement Number: 918692089
+Sequence Number: 778785668
+Window Size :  31460
+-----TCP----
+Source Port:  3371
+Destination Port:  80
+ACK
+Acknowledgement Number: 778787258
+Sequence Number: 918692089
+Window Size :  8760
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+Other
+Acknowledgement Number: 951058419
+Sequence Number: 290236320
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290236744
+Sequence Number: 951058419
+Window Size :  9236
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+FIN
+Acknowledgement Number: 951058419
+Sequence Number: 290236744
+Window Size :  6432
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+ACK
+Acknowledgement Number: 290236745
+Sequence Number: 951058419
+Window Size :  9236
+-----TCP----
+Source Port:  3372
+Destination Port:  80
+FIN
+Acknowledgement Number: 290236745
+Sequence Number: 951058419
+Window Size :  9236
+-----TCP----
+Source Port:  80
+Destination Port:  3372
+ACK
+Acknowledgement Number: 951058420
+Sequence Number: 290236745
+Window Size :  6432

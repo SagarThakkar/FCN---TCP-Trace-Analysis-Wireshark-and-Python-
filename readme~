@@ -1,0 +1,18 @@
+I have used the pcapy library of python to parse the pcap file and observe the different packet traces.
+
+In part A : The program parses the pcap file and does analysis for TCP packets(Excluding Non TCP Packets(DNS etc)) then the packet information is extracted and the necessary sequence number , acknowledgement number and window size are obtained using the functions i created inside the TCP class.
+
+In part B: The program parses and obtains the information in the class as before and then to compute the details according to each connection , the program creates maps with key as port number and value as icwnd,Average RTT,Throughput and Goodput.
+
+As a part of goodput calculation i have removed the header as well.
+
+The result of the maps are seen in the log file towards the end
+
+In part C: 
+
+The all RTT from both the client and server is seen in the log file.
+
+
+The folder consist of 3 python files , 4 pcap files and 4 log files.
+
+the program can be run via the command python <filename>.py | tee <logfilename>.txt (in my case the file names are partA,partB,partC  and logfilenames are logA,lobBSambpleA,logBSambple,logC)

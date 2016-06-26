@@ -1,0 +1,406 @@
+-----TCP----
+timestamp:  1373335800.463550
+packetlength  78
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408114494
+SYN
+Window Size: 65535
+-----TCP----
+timestamp:  1373335800.463962
+packetlength  74
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246569
+SYNACK
+Acknowledgement Number: 2408114495
+Window Size: 4344
+-----TCP----
+timestamp:  1373335800.666896
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408114495
+ACK
+Acknowledgement Number: 4261246570
+Window Size: 65535
+-----TCP----
+timestamp:  1373335800.669111
+packetlength  86
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408114495
+Other
+Acknowledgement Number: 4261246570
+Window Size: 65535
+-----TCP----
+timestamp:  1373335800.669528
+packetlength  66
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246570
+ACK
+Acknowledgement Number: 2408114515
+Window Size: 34
+-----TCP----
+timestamp:  1373335800.669655
+packetlength  86
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246570
+Other
+Acknowledgement Number: 2408114515
+Window Size: 34
+-----TCP----
+timestamp:  1373335800.872622
+packetlength  1514
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408114515
+ACK
+Acknowledgement Number: 4261246570
+Window Size: 65535
+-----TCP----
+timestamp:  1373335800.872638
+packetlength  86
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408115963
+ACK
+Acknowledgement Number: 4261246590
+Window Size: 65535
+-----TCP----
+timestamp:  1373335800.873334
+packetlength  66
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246590
+ACK
+Acknowledgement Number: 2408115983
+Window Size: 57
+-----TCP----
+timestamp:  1373335800.874119
+packetlength  257
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246590
+Other
+Acknowledgement Number: 2408115983
+Window Size: 57
+-----TCP----
+timestamp:  1373335800.874124
+packetlength  174
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246781
+Other
+Acknowledgement Number: 2408115983
+Window Size: 57
+-----TCP----
+timestamp:  1373335800.874127
+packetlength  89
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246889
+Other
+Acknowledgement Number: 2408115983
+Window Size: 57
+-----TCP----
+timestamp:  1373335800.874129
+packetlength  174
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261246912
+Other
+Acknowledgement Number: 2408115983
+Window Size: 57
+-----TCP----
+timestamp:  1373335801.74745
+packetlength  942
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408115983
+Other
+Acknowledgement Number: 4261246590
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.74774
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261246781
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.74779
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261246889
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.74792
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261246912
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.74796
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261247020
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.75463
+packetlength  459
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247020
+Other
+Acknowledgement Number: 2408116859
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.75853
+packetlength  89
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247413
+Other
+Acknowledgement Number: 2408116859
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.75857
+packetlength  174
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247436
+Other
+Acknowledgement Number: 2408116859
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.75859
+packetlength  89
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247544
+Other
+Acknowledgement Number: 2408116859
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.75862
+packetlength  174
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247567
+Other
+Acknowledgement Number: 2408116859
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.75864
+packetlength  89
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247675
+Other
+Acknowledgement Number: 2408116859
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.75866
+packetlength  174
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247698
+Other
+Acknowledgement Number: 2408116859
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.277097
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261247413
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.278200
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261247436
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.278212
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261247544
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.278216
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261247675
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.278221
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261247698
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.278225
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+ACK
+Acknowledgement Number: 4261247806
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.286720
+packetlength  66
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116859
+FINACK
+Acknowledgement Number: 4261247806
+Window Size: 65535
+-----TCP----
+timestamp:  1373335801.287232
+packetlength  82
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247806
+Other
+Acknowledgement Number: 2408116860
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.287236
+packetlength  66
+Source Port:  80
+Destination Port:  56192
+Sequence Number: 4261247822
+FINACK
+Acknowledgement Number: 2408116860
+Window Size: 80
+-----TCP----
+timestamp:  1373335801.489133
+packetlength  54
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116860
+Other
+Acknowledgement Number: 0
+Window Size: 0
+-----TCP----
+timestamp:  1373335801.489146
+packetlength  54
+Source Port:  56192
+Destination Port:  80
+Sequence Number: 2408116860
+Other
+Acknowledgement Number: 0
+Window Size: 0
+-----Packet Data ---
+Count 1
+-----Packet Data ---
+Count 2
+-----Packet Data ---
+Count 3
+-----Packet Data ---
+Count 4
+-----Packet Data ---
+Count 5
+-----Packet Data ---
+Count 6
+-----Packet Data ---
+Count 7
+-----Packet Data ---
+Count 8
+-----Packet Data ---
+Count 9
+-----Packet Data ---
+Count 10
+-----Packet Data ---
+Count 11
+-----Packet Data ---
+Count 12
+-----Packet Data ---
+Count 13
+-----Packet Data ---
+Count 14
+-----Packet Data ---
+Count 15
+-----Packet Data ---
+Count 16
+-----Packet Data ---
+Count 17
+-----Packet Data ---
+Count 18
+-----Packet Data ---
+Count 19
+-----Packet Data ---
+Count 20
+-----Packet Data ---
+Count 21
+-----Packet Data ---
+Count 22
+-----Packet Data ---
+Count 23
+-----Packet Data ---
+Count 24
+-----Packet Data ---
+Count 25
+-----Packet Data ---
+Count 26
+-----Packet Data ---
+Count 27
+-----Packet Data ---
+Count 28
+-----Packet Data ---
+Count 29
+-----Packet Data ---
+Count 30
+-----Packet Data ---
+Count 31
+-----Packet Data ---
+Count 32
+-----Packet Data ---
+Count 33
+-----Packet Data ---
+Count 34
+-----Packet Data ---
+Count 35
+-----Packet Data ---
+Count 36
+---Packet Count----
+36
+Average_RTT Table
+{56192: 0.031318994668813854, 80: 0.20462238788604736}
+Throughput Table:
+{56192: 191193.876537889, 80: 28882.470100442937}
+ICWND:  {56192: 4380}
+Goodput Table:
+{56192: 115457.09044104988, 80: 17671.575614754933}
+Retransmission Packet size
+{80: 54, 56192: 257}

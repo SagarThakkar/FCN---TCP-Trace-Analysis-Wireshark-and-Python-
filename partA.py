@@ -1,0 +1,74 @@
+import pcapy
+reader = pcapy.open_offline("http_first_sample.pcap")
+count = 0;
+payload_list = []
+payload_list1 = []
+from pprint import pprint
+def is_TCP(arr):
+	#print arr[23]
+	#print arr[22:24]
+	return arr[23]=='06'
+
+
+class TCP:
+	def __init__(self,arr):	
+		self.payload_list = arr
+	#	print self.payload_list
+		print "Source Port: ",self.src_port()
+		print "Destination Port: ",self.destnport()
+		self.get_ack()		
+		self.get_seq()		
+		self.get_windowSize()	
+	def src_port(self):
+		return int("".join(self.payload_list[34:36]),16)
+	def destnport(self):
+		return int("".join(self.payload_list[36:38]),16)
+	def packet_type(self):
+		stat = "Other"	
+		a = self.payload_list[47]		
+		flag = int(a)
+		#print flag
+		if(flag == 11 and (flag & 11)):
+			stat = "FIN"
+		elif(flag == 02 and (flag & 02)):
+			stat = "SYN"
+		elif(flag == 10 and (flag & 10)):
+			stat = "ACK"
+		elif(flag == 12 and (flag & 12)):
+			stat = "SYNACK"
+		
+		print stat
+		return stat	
+
+	def get_ack(self):
+		stat=self.packet_type()
+		#print stat
+		if stat != "SYN":
+			acknowledge_no =int("".join(self.payload_list[42:46]),16)
+			print "Acknowledgement Number:",acknowledge_no
+	def get_seq(self):	
+		sequence_no =int("".join(self.payload_list[38:42]),16)
+		print "Sequence Number:",sequence_no
+	def get_windowSize(self):	
+		window_s = int("".join(self.payload_list[48:50]),16) 
+		print "Window Size : ", window_s	
+
+
+if __name__=="__main__":
+	alldata=list()
+	while(1):
+		header,data=reader.next()
+		if header:
+			length=header.getlen()
+		
+#			print length
+			a=[x.encode('hex') for x in data]
+			alldata.append(a)
+		else:break
+	#pprint(alldata)
+	for y in alldata:
+		if is_TCP(y):
+			print "-----TCP----"
+			t = TCP(y)			
+			
+	

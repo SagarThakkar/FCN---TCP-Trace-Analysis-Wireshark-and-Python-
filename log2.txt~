@@ -1,0 +1,945 @@
+-----TCP----
+timestamp:  1373318637.297280
+packetlength  78
+Source Port:  53026
+Destination Port:  80
+Sequence Number: 3787107374
+SYN
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.297300
+packetlength  78
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994012
+SYN
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.297305
+packetlength  78
+Source Port:  53028
+Destination Port:  80
+Sequence Number: 3711852382
+SYN
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.297310
+packetlength  78
+Source Port:  53029
+Destination Port:  80
+Sequence Number: 3476449437
+SYN
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.297314
+packetlength  78
+Source Port:  53030
+Destination Port:  80
+Sequence Number: 1720612915
+SYN
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.297319
+packetlength  78
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785606
+SYN
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.297787
+packetlength  74
+Source Port:  80
+Destination Port:  53027
+Sequence Number: 2255923869
+SYNACK
+Acknowledgement Number: 845994013
+Window Size :  4344
+-----TCP----
+timestamp:  1373318637.297791
+packetlength  74
+Source Port:  80
+Destination Port:  53031
+Sequence Number: 2292117421
+SYNACK
+Acknowledgement Number: 3688785607
+Window Size :  4344
+-----TCP----
+timestamp:  1373318637.297794
+packetlength  74
+Source Port:  80
+Destination Port:  53026
+Sequence Number: 1258795160
+SYNACK
+Acknowledgement Number: 3787107375
+Window Size :  4344
+-----TCP----
+timestamp:  1373318637.297796
+packetlength  74
+Source Port:  80
+Destination Port:  53030
+Sequence Number: 2725797260
+SYNACK
+Acknowledgement Number: 1720612916
+Window Size :  4344
+-----TCP----
+timestamp:  1373318637.297798
+packetlength  74
+Source Port:  80
+Destination Port:  53029
+Sequence Number: 3197323910
+SYNACK
+Acknowledgement Number: 3476449438
+Window Size :  4344
+-----TCP----
+timestamp:  1373318637.297800
+packetlength  74
+Source Port:  80
+Destination Port:  53028
+Sequence Number: 2716633636
+SYNACK
+Acknowledgement Number: 3711852383
+Window Size :  4344
+-----TCP----
+timestamp:  1373318637.499989
+packetlength  66
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994013
+ACK
+Acknowledgement Number: 2255923870
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.500002
+packetlength  66
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785607
+ACK
+Acknowledgement Number: 2292117422
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.500007
+packetlength  66
+Source Port:  53026
+Destination Port:  80
+Sequence Number: 3787107375
+ACK
+Acknowledgement Number: 1258795161
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.500011
+packetlength  66
+Source Port:  53030
+Destination Port:  80
+Sequence Number: 1720612916
+ACK
+Acknowledgement Number: 2725797261
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.500016
+packetlength  66
+Source Port:  53029
+Destination Port:  80
+Sequence Number: 3476449438
+ACK
+Acknowledgement Number: 3197323911
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.500020
+packetlength  66
+Source Port:  53028
+Destination Port:  80
+Sequence Number: 3711852383
+ACK
+Acknowledgement Number: 2716633637
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.500024
+packetlength  161
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994013
+Other
+Acknowledgement Number: 2255923870
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.500504
+packetlength  66
+Source Port:  80
+Destination Port:  53027
+Sequence Number: 2255923870
+ACK
+Acknowledgement Number: 845994108
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.501142
+packetlength  470
+Source Port:  80
+Destination Port:  53027
+Sequence Number: 2255923870
+Other
+Acknowledgement Number: 845994108
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.502150
+packetlength  161
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785607
+Other
+Acknowledgement Number: 2292117422
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.502568
+packetlength  66
+Source Port:  80
+Destination Port:  53031
+Sequence Number: 2292117422
+ACK
+Acknowledgement Number: 3688785702
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.502990
+packetlength  470
+Source Port:  80
+Destination Port:  53031
+Sequence Number: 2292117422
+Other
+Acknowledgement Number: 3688785702
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.504358
+packetlength  161
+Source Port:  53026
+Destination Port:  80
+Sequence Number: 3787107375
+Other
+Acknowledgement Number: 1258795161
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.504370
+packetlength  161
+Source Port:  53030
+Destination Port:  80
+Sequence Number: 1720612916
+Other
+Acknowledgement Number: 2725797261
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.504374
+packetlength  161
+Source Port:  53029
+Destination Port:  80
+Sequence Number: 3476449438
+Other
+Acknowledgement Number: 3197323911
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.504841
+packetlength  66
+Source Port:  80
+Destination Port:  53026
+Sequence Number: 1258795161
+ACK
+Acknowledgement Number: 3787107470
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.504844
+packetlength  66
+Source Port:  80
+Destination Port:  53029
+Sequence Number: 3197323911
+ACK
+Acknowledgement Number: 3476449533
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.504847
+packetlength  66
+Source Port:  80
+Destination Port:  53030
+Sequence Number: 2725797261
+ACK
+Acknowledgement Number: 1720613011
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.505067
+packetlength  470
+Source Port:  80
+Destination Port:  53026
+Sequence Number: 1258795161
+Other
+Acknowledgement Number: 3787107470
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.505128
+packetlength  470
+Source Port:  80
+Destination Port:  53029
+Sequence Number: 3197323911
+Other
+Acknowledgement Number: 3476449533
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.505131
+packetlength  470
+Source Port:  80
+Destination Port:  53030
+Sequence Number: 2725797261
+Other
+Acknowledgement Number: 1720613011
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.703258
+packetlength  66
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994108
+ACK
+Acknowledgement Number: 2255924274
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.705484
+packetlength  66
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785702
+ACK
+Acknowledgement Number: 2292117826
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.707713
+packetlength  161
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994108
+Other
+Acknowledgement Number: 2255924274
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.707732
+packetlength  66
+Source Port:  53026
+Destination Port:  80
+Sequence Number: 3787107470
+ACK
+Acknowledgement Number: 1258795565
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.707737
+packetlength  66
+Source Port:  53029
+Destination Port:  80
+Sequence Number: 3476449533
+ACK
+Acknowledgement Number: 3197324315
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.707741
+packetlength  66
+Source Port:  53030
+Destination Port:  80
+Sequence Number: 1720613011
+ACK
+Acknowledgement Number: 2725797665
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.707746
+packetlength  161
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785702
+Other
+Acknowledgement Number: 2292117826
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.708403
+packetlength  469
+Source Port:  80
+Destination Port:  53031
+Sequence Number: 2292117826
+Other
+Acknowledgement Number: 3688785797
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.708407
+packetlength  469
+Source Port:  80
+Destination Port:  53027
+Sequence Number: 2255924274
+Other
+Acknowledgement Number: 845994203
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.709859
+packetlength  66
+Source Port:  53026
+Destination Port:  80
+Sequence Number: 3787107470
+FINACK
+Acknowledgement Number: 1258795565
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.709873
+packetlength  66
+Source Port:  53029
+Destination Port:  80
+Sequence Number: 3476449533
+FINACK
+Acknowledgement Number: 3197324315
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.709878
+packetlength  66
+Source Port:  53030
+Destination Port:  80
+Sequence Number: 1720613011
+FINACK
+Acknowledgement Number: 2725797665
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.710414
+packetlength  66
+Source Port:  80
+Destination Port:  53029
+Sequence Number: 3197324315
+FINACK
+Acknowledgement Number: 3476449534
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.710418
+packetlength  66
+Source Port:  80
+Destination Port:  53026
+Sequence Number: 1258795565
+FINACK
+Acknowledgement Number: 3787107471
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.710420
+packetlength  66
+Source Port:  80
+Destination Port:  53030
+Sequence Number: 2725797665
+FINACK
+Acknowledgement Number: 1720613012
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.912859
+packetlength  66
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994203
+ACK
+Acknowledgement Number: 2255924677
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.912872
+packetlength  66
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994203
+FINACK
+Acknowledgement Number: 2255924677
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.913362
+packetlength  66
+Source Port:  80
+Destination Port:  53027
+Sequence Number: 2255924677
+FINACK
+Acknowledgement Number: 845994204
+Window Size :  34
+-----TCP----
+timestamp:  1373318637.913880
+packetlength  66
+Source Port:  53029
+Destination Port:  80
+Sequence Number: 3476449534
+ACK
+Acknowledgement Number: 3197324316
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.913888
+packetlength  66
+Source Port:  53026
+Destination Port:  80
+Sequence Number: 3787107471
+ACK
+Acknowledgement Number: 1258795566
+Window Size :  65535
+-----TCP----
+timestamp:  1373318637.913892
+packetlength  66
+Source Port:  53030
+Destination Port:  80
+Sequence Number: 1720613012
+ACK
+Acknowledgement Number: 2725797666
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.115571
+packetlength  66
+Source Port:  53027
+Destination Port:  80
+Sequence Number: 845994204
+ACK
+Acknowledgement Number: 2255924678
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.333009
+packetlength  469
+Source Port:  80
+Destination Port:  53031
+Sequence Number: 2292117826
+Other
+Acknowledgement Number: 3688785797
+Window Size :  34
+-----TCP----
+timestamp:  1373318638.438835
+packetlength  161
+Source Port:  53028
+Destination Port:  80
+Sequence Number: 3711852383
+Other
+Acknowledgement Number: 2716633637
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.439272
+packetlength  66
+Source Port:  80
+Destination Port:  53028
+Sequence Number: 2716633637
+ACK
+Acknowledgement Number: 3711852478
+Window Size :  34
+-----TCP----
+timestamp:  1373318638.439607
+packetlength  470
+Source Port:  80
+Destination Port:  53028
+Sequence Number: 2716633637
+Other
+Acknowledgement Number: 3711852478
+Window Size :  34
+-----TCP----
+timestamp:  1373318638.535782
+packetlength  66
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785797
+ACK
+Acknowledgement Number: 2292118229
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.535802
+packetlength  66
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785797
+FINACK
+Acknowledgement Number: 2292118229
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.536279
+packetlength  66
+Source Port:  80
+Destination Port:  53031
+Sequence Number: 2292118229
+FINACK
+Acknowledgement Number: 3688785798
+Window Size :  34
+-----TCP----
+timestamp:  1373318638.640950
+packetlength  66
+Source Port:  53028
+Destination Port:  80
+Sequence Number: 3711852478
+ACK
+Acknowledgement Number: 2716634041
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.640970
+packetlength  66
+Source Port:  53028
+Destination Port:  80
+Sequence Number: 3711852478
+FINACK
+Acknowledgement Number: 2716634041
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.641411
+packetlength  66
+Source Port:  80
+Destination Port:  53028
+Sequence Number: 2716634041
+FINACK
+Acknowledgement Number: 3711852479
+Window Size :  34
+-----TCP----
+timestamp:  1373318638.738453
+packetlength  66
+Source Port:  53031
+Destination Port:  80
+Sequence Number: 3688785798
+ACK
+Acknowledgement Number: 2292118230
+Window Size :  65535
+-----TCP----
+timestamp:  1373318638.843574
+packetlength  66
+Source Port:  53028
+Destination Port:  80
+Sequence Number: 3711852479
+ACK
+Acknowledgement Number: 2716634042
+Window Size :  65535
+-----Packet Data ---
+Count 1
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {})
+Sequence Number: 3787107374
+-----Packet Data ---
+Count 2
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None]})
+Sequence Number: 845994012
+-----Packet Data ---
+Count 3
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None]})
+Sequence Number: 3711852382
+-----Packet Data ---
+Count 4
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None]})
+Sequence Number: 3476449437
+-----Packet Data ---
+Count 5
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None]})
+Sequence Number: 1720612915
+-----Packet Data ---
+Count 6
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None]})
+Sequence Number: 3688785606
+-----Packet Data ---
+Count 7
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None]})
+Sequence Number: 2255923869
+-----Packet Data ---
+Count 8
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None], 53027: [None]})
+Sequence Number: 2292117421
+-----Packet Data ---
+Count 9
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None], 53027: [None], 53031: [None]})
+Sequence Number: 1258795160
+-----Packet Data ---
+Count 10
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None], 53026: [None], 53027: [None], 53031: [None]})
+Sequence Number: 2725797260
+-----Packet Data ---
+Count 11
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {80: [None], 53026: [None], 53027: [None], 53030: [None], 53031: [None]})
+Sequence Number: 3197323910
+-----Packet Data ---
+Count 12
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2716633636
+-----Packet Data ---
+Count 13
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 845994013
+-----Packet Data ---
+Count 14
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3688785607
+-----Packet Data ---
+Count 15
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3787107375
+-----Packet Data ---
+Count 16
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1720612916
+-----Packet Data ---
+Count 17
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3476449438
+-----Packet Data ---
+Count 18
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3711852383
+-----Packet Data ---
+Count 19
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 845994013
+-----Packet Data ---
+Count 20
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2255923870
+-----Packet Data ---
+Count 21
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2255923870
+-----Packet Data ---
+Count 22
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3688785607
+-----Packet Data ---
+Count 23
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2292117422
+-----Packet Data ---
+Count 24
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2292117422
+-----Packet Data ---
+Count 25
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3787107375
+-----Packet Data ---
+Count 26
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1720612916
+-----Packet Data ---
+Count 27
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3476449438
+-----Packet Data ---
+Count 28
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1258795161
+-----Packet Data ---
+Count 29
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3197323911
+-----Packet Data ---
+Count 30
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2725797261
+-----Packet Data ---
+Count 31
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1258795161
+-----Packet Data ---
+Count 32
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3197323911
+-----Packet Data ---
+Count 33
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2725797261
+-----Packet Data ---
+Count 34
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 845994108
+-----Packet Data ---
+Count 35
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3688785702
+-----Packet Data ---
+Count 36
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 845994108
+-----Packet Data ---
+Count 37
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3787107470
+-----Packet Data ---
+Count 38
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3476449533
+-----Packet Data ---
+Count 39
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1720613011
+-----Packet Data ---
+Count 40
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3688785702
+-----Packet Data ---
+Count 41
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2292117826
+-----Packet Data ---
+Count 42
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2255924274
+-----Packet Data ---
+Count 43
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3787107470
+-----Packet Data ---
+Count 44
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3476449533
+-----Packet Data ---
+Count 45
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1720613011
+-----Packet Data ---
+Count 46
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3197324315
+-----Packet Data ---
+Count 47
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1258795565
+-----Packet Data ---
+Count 48
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2725797665
+-----Packet Data ---
+Count 49
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 845994203
+-----Packet Data ---
+Count 50
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 845994203
+-----Packet Data ---
+Count 51
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2255924677
+-----Packet Data ---
+Count 52
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3476449534
+-----Packet Data ---
+Count 53
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3787107471
+-----Packet Data ---
+Count 54
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 1720613012
+-----Packet Data ---
+Count 55
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 845994204
+-----Packet Data ---
+Count 56
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2292117826
+-----Packet Data ---
+Count 57
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3711852383
+-----Packet Data ---
+Count 58
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2716633637
+-----Packet Data ---
+Count 59
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2716633637
+-----Packet Data ---
+Count 60
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3688785797
+-----Packet Data ---
+Count 61
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3688785797
+-----Packet Data ---
+Count 62
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2292118229
+-----Packet Data ---
+Count 63
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3711852478
+-----Packet Data ---
+Count 64
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3711852478
+-----Packet Data ---
+Count 65
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 2716634041
+-----Packet Data ---
+Count 66
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3688785798
+-----Packet Data ---
+Count 67
+ Before retransmissiontable computation
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
+Sequence Number: 3711852479
+---Packet Count----
+67
+Average_RTT Table
+{53026: 0.20337661107381186, 53027: 0.20344197750091553, 53028: 0.20247801144917807, 53029: 0.20335865020751953, 53030: 0.20336071650187174, 53031: 0.35917598009109497, 80: 0.19003315766652426}
+Throughput Table:
+{53026: 5797.126787465759, 53027: 9216.38701625166, 53028: 5822.854499417725, 53029: 5797.6387962689405, 53030: 5797.579887997436, 53031: 6526.048872771252, 80: 44555.38235521055}
+ICWND:  {53026: 4380, 53027: 4380, 53028: 4380, 53029: 4380, 53030: 4380, 53031: 4380}
+Goodput Table:
+{53026: 2453.576138206458, 53027: 4900.660189441549, 53028: 2464.465135885873, 53029: 2453.792840829687, 53030: 2453.7679084908573, 53031: 3897.8107601876077, 80: 23117.018387438286}
+Retransmission Table
+{53026: 66, 53027: 66, 53028: 66, 53029: 66, 53030: 66, 53031: 66, 80: 66}
+Port to sequnce
+defaultdict(<type 'list'>, {53026: [None], 53027: [None], 53028: [None], 53029: [None], 53030: [None], 53031: [None], 80: [None]})
